@@ -1,0 +1,35 @@
+.heading{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 60px;
+
+
+}
+.container-fluid{
+    background-image: url(images/travel-concept-with-landmarks_1057-4873.avif);
+    height: 600px;
+}
+.btn{
+    border-radius: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: black;
+}
+.para{
+     text-align: center;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+}
+.form-control{
+    background-color: rgba(5, 1, 1, 0.301);
+
+}
+label{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
